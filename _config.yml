@@ -1,6 +1,6 @@
 # Site settings
-title: Febric Blog
-SEOTitle: 明卿城月倾城陌的博客 | Febric Blog
+title: Febric
+SEOTitle: 明卿城月倾城陌 | Febric
 header-img: img/home-bg.jpg
 email: xzhzhaowendao.foxmail.com
 description: "这里是 @明卿城月倾城陌 的个人博客"
@@ -13,10 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+zhihu_username: 明卿城月倾城陌
+github_username: xzhzhaowendao
+twitter_username: xzhzhapwendao
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
